@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T17:28:45.164Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="10PengPFVNJRUwmqrC7j" version="21.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-03T22:11:31.158Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="32U2jAk3JCzW4XhowPUs" version="21.2.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2409" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2035" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -219,7 +219,7 @@
         <mxCell id="t-TeCt8UrXFSV-r90nHZ-22" value="получилось?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-660" y="930" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="t-TeCt8UrXFSV-r90nHZ-26" value="&lt;div&gt;&amp;nbsp;Ура вы авторизованы! НО&lt;/div&gt;&lt;div&gt;&amp;nbsp;это еще не все&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="t-TeCt8UrXFSV-r90nHZ-26" value="&lt;div&gt;&amp;nbsp;Ура вы авторизованы! НО&lt;/div&gt;&lt;div&gt;&amp;nbsp;это еще не все (иди на стр 2)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="192.5" y="1110.01" width="217.5" height="139.99" as="geometry" />
         </mxCell>
         <mxCell id="t-TeCt8UrXFSV-r90nHZ-30" value="&lt;div&gt;показываем экран с просьбой обновиться&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -229,10 +229,30 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2fUhuzr-JUSTlgeLjkXr" name="Страница 2">
-    <mxGraphModel dx="1582" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1208" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CU31HF6IzaK3eEmac9li-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CU31HF6IzaK3eEmac9li-2" target="CU31HF6IzaK3eEmac9li-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU31HF6IzaK3eEmac9li-2" value="мы авторизованы" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="316" y="30" width="234" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CU31HF6IzaK3eEmac9li-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CU31HF6IzaK3eEmac9li-4" target="CU31HF6IzaK3eEmac9li-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CU31HF6IzaK3eEmac9li-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CU31HF6IzaK3eEmac9li-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CU31HF6IzaK3eEmac9li-4" value="&lt;div&gt;скачиваем бутстрап - в нем лежит тарифный план&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;он определяет внешний вид приложения (в частности закладки в таббаре) а также он добавляет параметр к запросам" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="248" y="190" width="370" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CU31HF6IzaK3eEmac9li-6" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="393" y="345" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
