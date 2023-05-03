@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T17:27:05.369Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="nOE4Y0iskDpaVwUsNpK_" version="21.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-03T17:28:45.164Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="10PengPFVNJRUwmqrC7j" version="21.2.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2409" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,14 +15,6 @@
             <mxGeometry x="140" y="30" width="175" height="70" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="KKRiEK0gICFwFfUP5eYs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="KKRiEK0gICFwFfUP5eYs-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KKRiEK0gICFwFfUP5eYs-4" value="&lt;div&gt;Да&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KKRiEK0gICFwFfUP5eYs-3">
-          <mxGeometry x="0.0571" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KKRiEK0gICFwFfUP5eYs-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="KKRiEK0gICFwFfUP5eYs-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="345" as="targetPoint" />
@@ -33,14 +25,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="t-TeCt8UrXFSV-r90nHZ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="t-TeCt8UrXFSV-r90nHZ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Текущая версия ниже минимальной?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="147.5" y="160" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="KKRiEK0gICFwFfUP5eYs-2" value="просим обновиться" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-20" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KKRiEK0gICFwFfUP5eYs-5" value="ё" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontColor=#000000;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-170" y="200" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KKRiEK0gICFwFfUP5eYs-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KKRiEK0gICFwFfUP5eYs-11" target="KKRiEK0gICFwFfUP5eYs-16">
           <mxGeometry relative="1" as="geometry" />
@@ -232,6 +221,9 @@
         </mxCell>
         <mxCell id="t-TeCt8UrXFSV-r90nHZ-26" value="&lt;div&gt;&amp;nbsp;Ура вы авторизованы! НО&lt;/div&gt;&lt;div&gt;&amp;nbsp;это еще не все&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="192.5" y="1110.01" width="217.5" height="139.99" as="geometry" />
+        </mxCell>
+        <mxCell id="t-TeCt8UrXFSV-r90nHZ-30" value="&lt;div&gt;показываем экран с просьбой обновиться&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-140" y="130" width="125" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
