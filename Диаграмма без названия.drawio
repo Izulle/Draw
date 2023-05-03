@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T15:48:03.629Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="_ZO9z0x95cbp_2YuJX8y" version="21.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-03T15:51:52.524Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="7R-X9q7KGCq0rgSYV5iX" version="21.2.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2409" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KKRiEK0gICFwFfUP5eYs-16" value="&lt;div&gt;получилось скачать конфиг из файрбейз&lt;/div&gt;&lt;div&gt;?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="310" width="290" height="130" as="geometry" />
+          <mxGeometry x="380" y="310" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="KKRiEK0gICFwFfUP5eYs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KKRiEK0gICFwFfUP5eYs-20">
           <mxGeometry relative="1" as="geometry">
@@ -85,6 +85,11 @@
         <mxCell id="KKRiEK0gICFwFfUP5eYs-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KKRiEK0gICFwFfUP5eYs-30" target="KKRiEK0gICFwFfUP5eYs-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="t-TeCt8UrXFSV-r90nHZ-4" value="&lt;div&gt;нет&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KKRiEK0gICFwFfUP5eYs-39">
+          <mxGeometry x="-0.0914" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KKRiEK0gICFwFfUP5eYs-30" value="мы уже пытались авторизироваться?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="165" y="347.5" width="135" height="102.5" as="geometry" />
         </mxCell>
@@ -95,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KKRiEK0gICFwFfUP5eYs-38" value="ставим флажок что пытались авторизоваться" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="172.5" y="551.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="172.51" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KKRiEK0gICFwFfUP5eYs-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KKRiEK0gICFwFfUP5eYs-40" target="KKRiEK0gICFwFfUP5eYs-42">
           <mxGeometry relative="1" as="geometry" />
@@ -109,7 +114,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KKRiEK0gICFwFfUP5eYs-40" value="&lt;div&gt;у нас в UserDefaults есть ид-р пользователя и токен?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="114.38" y="681.25" width="236.25" height="128.75" as="geometry" />
+          <mxGeometry x="114.38" y="570" width="236.25" height="128.75" as="geometry" />
         </mxCell>
         <mxCell id="KKRiEK0gICFwFfUP5eYs-42" value="&lt;div&gt;показываем инфо и запрашиваем логин/пароль&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-150.005" y="510.005" width="120" height="60" as="geometry" />
