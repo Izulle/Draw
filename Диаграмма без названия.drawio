@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T17:26:00.113Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="w7kvDaM6EB0W28nOkY1m" version="21.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-03T17:27:05.369Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="nOE4Y0iskDpaVwUsNpK_" version="21.2.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2409" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,12 +199,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t-TeCt8UrXFSV-r90nHZ-20" value="запрашиваем его проверку" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-515" y="920" width="120" height="80" as="geometry" />
+          <mxGeometry x="-515" y="930" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t-TeCt8UrXFSV-r90nHZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t-TeCt8UrXFSV-r90nHZ-22" target="KKRiEK0gICFwFfUP5eYs-42">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-390" y="800" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="-620" y="970" />
+              <mxPoint x="-620" y="800" />
               <mxPoint x="-300" y="800" />
               <mxPoint x="-300" y="555" />
             </Array>
@@ -226,7 +228,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t-TeCt8UrXFSV-r90nHZ-22" value="получилось?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-660" y="920" width="80" height="80" as="geometry" />
+          <mxGeometry x="-660" y="930" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t-TeCt8UrXFSV-r90nHZ-26" value="&lt;div&gt;&amp;nbsp;Ура вы авторизованы! НО&lt;/div&gt;&lt;div&gt;&amp;nbsp;это еще не все&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="192.5" y="1110.01" width="217.5" height="139.99" as="geometry" />
