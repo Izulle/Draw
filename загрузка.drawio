@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T14:33:39.195Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="E31C2zuFPqwahwNiPruU" version="21.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-04T14:34:17.728Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="FKgtnWQY16P6Y45wQdqO" version="21.2.7" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1823" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2167" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -211,7 +211,7 @@
         <mxCell id="t-TeCt8UrXFSV-r90nHZ-22" value="получилось?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-660" y="930" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0M_HvZzU5Uo_s5MVvqJ2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.459;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t-TeCt8UrXFSV-r90nHZ-26" target="0M_HvZzU5Uo_s5MVvqJ2-27">
+        <mxCell id="0M_HvZzU5Uo_s5MVvqJ2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.459;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t-TeCt8UrXFSV-r90nHZ-26" target="0M_HvZzU5Uo_s5MVvqJ2-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t-TeCt8UrXFSV-r90nHZ-26" value="&lt;div&gt;&amp;nbsp;Ура вы авторизованы! НО&lt;/div&gt;&lt;div&gt;&amp;nbsp;это еще не все (иди на стр 2)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -220,87 +220,45 @@
         <mxCell id="t-TeCt8UrXFSV-r90nHZ-30" value="&lt;div&gt;показываем экран с просьбой обновиться&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-140" y="130" width="125" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="0M_HvZzU5Uo_s5MVvqJ2-10" value="Берем тарифный план из бустрапа" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0M_HvZzU5Uo_s5MVvqJ2-10" value="Берем тарифный план из бустрапа" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="510" y="1455" width="237" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="0M_HvZzU5Uo_s5MVvqJ2-11" value="&lt;div&gt;Работаем с пустым ( nil) тарифным планом&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0M_HvZzU5Uo_s5MVvqJ2-11" value="&lt;div&gt;Работаем с пустым ( nil) тарифным планом&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-210" y="1460" width="243" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0M_HvZzU5Uo_s5MVvqJ2-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0M_HvZzU5Uo_s5MVvqJ2-27" target="0M_HvZzU5Uo_s5MVvqJ2-32">
+        <mxCell id="0M_HvZzU5Uo_s5MVvqJ2-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0M_HvZzU5Uo_s5MVvqJ2-27" target="0M_HvZzU5Uo_s5MVvqJ2-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0M_HvZzU5Uo_s5MVvqJ2-27" value="&lt;div&gt;скачиваем бутстрап - в нем лежит тарифный план&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;он определяет внешний вид приложения (в частности закладки в таббаре) а также он добавляет параметр к запросам" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0M_HvZzU5Uo_s5MVvqJ2-27" value="&lt;div&gt;скачиваем бутстрап - в нем лежит тарифный план&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;он определяет внешний вид приложения (в частности закладки в таббаре) а также он добавляет параметр к запросам" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="1300" width="370" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="0M_HvZzU5Uo_s5MVvqJ2-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0M_HvZzU5Uo_s5MVvqJ2-32" target="0M_HvZzU5Uo_s5MVvqJ2-10">
+        <mxCell id="0M_HvZzU5Uo_s5MVvqJ2-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0M_HvZzU5Uo_s5MVvqJ2-32" target="0M_HvZzU5Uo_s5MVvqJ2-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="1500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0M_HvZzU5Uo_s5MVvqJ2-29" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0M_HvZzU5Uo_s5MVvqJ2-28">
+        <mxCell id="0M_HvZzU5Uo_s5MVvqJ2-29" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0M_HvZzU5Uo_s5MVvqJ2-28" vertex="1" connectable="0">
           <mxGeometry x="-0.475" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mChZSO2P1UwJolHupll0-2" value="&lt;div&gt;нет&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0M_HvZzU5Uo_s5MVvqJ2-32" target="0M_HvZzU5Uo_s5MVvqJ2-11">
+        <mxCell id="mChZSO2P1UwJolHupll0-2" value="&lt;div&gt;нет&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0M_HvZzU5Uo_s5MVvqJ2-32" target="0M_HvZzU5Uo_s5MVvqJ2-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0M_HvZzU5Uo_s5MVvqJ2-32" value="&lt;div&gt;получилось?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0M_HvZzU5Uo_s5MVvqJ2-32" value="&lt;div&gt;получилось?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="206.25" y="1455" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mChZSO2P1UwJolHupll0-0" value="&lt;div&gt;Работаем с пустым ( nil) тарифным планом&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mChZSO2P1UwJolHupll0-0" value="&lt;div&gt;Работаем с пустым ( nil) тарифным планом&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="70" y="345" width="243" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="2fUhuzr-JUSTlgeLjkXr" name="Страница 2">
-    <mxGraphModel dx="996" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1340" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CU31HF6IzaK3eEmac9li-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CU31HF6IzaK3eEmac9li-2" target="CU31HF6IzaK3eEmac9li-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CU31HF6IzaK3eEmac9li-2" value="мы авторизованы" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="316" y="30" width="234" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="CU31HF6IzaK3eEmac9li-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CU31HF6IzaK3eEmac9li-4" target="CU31HF6IzaK3eEmac9li-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CU31HF6IzaK3eEmac9li-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CU31HF6IzaK3eEmac9li-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CU31HF6IzaK3eEmac9li-4" value="&lt;div&gt;скачиваем бутстрап - в нем лежит тарифный план&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;он определяет внешний вид приложения (в частности закладки в таббаре) а также он добавляет параметр к запросам" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="248" y="190" width="370" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="gWfUuWW2ecuty8t_rZHl-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CU31HF6IzaK3eEmac9li-6" target="gWfUuWW2ecuty8t_rZHl-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gWfUuWW2ecuty8t_rZHl-5" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gWfUuWW2ecuty8t_rZHl-4" vertex="1" connectable="0">
-          <mxGeometry x="-0.475" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gWfUuWW2ecuty8t_rZHl-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CU31HF6IzaK3eEmac9li-6" target="gWfUuWW2ecuty8t_rZHl-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gWfUuWW2ecuty8t_rZHl-8" value="нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gWfUuWW2ecuty8t_rZHl-7" vertex="1" connectable="0">
-          <mxGeometry x="0.025" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CU31HF6IzaK3eEmac9li-6" value="&lt;div&gt;получилось?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="393" y="345" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="gWfUuWW2ecuty8t_rZHl-3" value="Берем тарифный план из бустрапа" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="553" y="345" width="237" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="gWfUuWW2ecuty8t_rZHl-6" value="&lt;div&gt;Работаем с пустым ( nil) тарифным планом&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="70" y="345" width="243" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
