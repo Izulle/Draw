@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T14:24:21.913Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="HcH6SK7gRShT-6ZhRAby" version="21.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-04T16:18:08.549Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="n_fwXpzQjtym9A378tzB" version="21.2.7" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1823" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2167" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -113,7 +113,7 @@
           <mxGeometry x="114.38" y="570" width="236.25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KKRiEK0gICFwFfUP5eYs-42" value="&lt;div&gt;показываем инфо и запрашиваем логин/пароль&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-150.005" y="510.005" width="120" height="60" as="geometry" />
+          <mxGeometry x="-279.995" y="590.005" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KKRiEK0gICFwFfUP5eYs-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KKRiEK0gICFwFfUP5eYs-45" target="KKRiEK0gICFwFfUP5eYs-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -159,7 +159,7 @@
         <mxCell id="t-TeCt8UrXFSV-r90nHZ-1" value="&lt;div&gt;А какой код ошибки?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-15" y="960.01" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-TeCt8UrXFSV-r90nHZ-5" value="висим на первом белом экране с ченой пачкой" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="t-TeCt8UrXFSV-r90nHZ-5" value="висим на первом белом экране с черной пачкой" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-15" y="740" width="115" height="110.01" as="geometry" />
         </mxCell>
         <mxCell id="t-TeCt8UrXFSV-r90nHZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KKRiEK0gICFwFfUP5eYs-16" target="KKRiEK0gICFwFfUP5eYs-16" edge="1">
@@ -179,32 +179,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t-TeCt8UrXFSV-r90nHZ-12" value="в базе есть бустрап профиль ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-300" y="910" width="150" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="t-TeCt8UrXFSV-r90nHZ-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-155" y="505" width="50" height="30" as="geometry" />
+          <mxGeometry x="-309.99" y="910" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="t-TeCt8UrXFSV-r90nHZ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t-TeCt8UrXFSV-r90nHZ-20" target="t-TeCt8UrXFSV-r90nHZ-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t-TeCt8UrXFSV-r90nHZ-20" value="запрашиваем его проверку" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-515" y="930" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="t-TeCt8UrXFSV-r90nHZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t-TeCt8UrXFSV-r90nHZ-22" target="KKRiEK0gICFwFfUP5eYs-42" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-390" y="800" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-620" y="970" />
-              <mxPoint x="-620" y="800" />
-              <mxPoint x="-300" y="800" />
-              <mxPoint x="-300" y="555" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t-TeCt8UrXFSV-r90nHZ-25" value="&lt;div&gt;нет&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="t-TeCt8UrXFSV-r90nHZ-24" vertex="1" connectable="0">
-          <mxGeometry x="-0.0706" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="t-TeCt8UrXFSV-r90nHZ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t-TeCt8UrXFSV-r90nHZ-22" target="t-TeCt8UrXFSV-r90nHZ-26" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -215,6 +196,9 @@
               <mxPoint x="-619" y="1180" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="z8bFGyfNCBozXInBRFFf-2" value="&lt;div&gt;нет&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.017;entryY=0.709;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t-TeCt8UrXFSV-r90nHZ-22" target="t-TeCt8UrXFSV-r90nHZ-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t-TeCt8UrXFSV-r90nHZ-22" value="получилось?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-660" y="930" width="80" height="80" as="geometry" />
